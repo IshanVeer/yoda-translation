@@ -1,0 +1,14 @@
+
+.heading-container{
+background-color:aqua;
+padding:2rem 1rem;
+text-align:center;
+}
+.footer-container{
+    background-color:aqua;
+    padding:2rem 1 rem;
+
+}
+.text{
+    text-align:center;
+}
